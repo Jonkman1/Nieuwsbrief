@@ -1,0 +1,54 @@
+---
+title: "Boekpresentatie" 
+edition: |
+   22 December, 2024 \
+   Dwars30A
+hero-image: 
+  path: "BC.jpg"
+  caption: "Uitnodiging"
+publication-info: |
+  Dwars30A \
+  Utrechtsedwarsstraat 30a, Amsterdam \
+  <mailto:dwars30a@gmail.com>
+format:
+  dept-news-typst: default
+---
+
+# The Way I read it/ Zoals ik het lees
+
+> Maar ik weet niet of iemand anders dat voelde.\
+> Misschien was ik de enige. \
+> Misschien is het gewoon zoals ik het lees. \
+> --- Billy Collins
+
+Op 22 december is **Dwars30a** weer even terug! De afgelopen jaren heeft Harrie Jonkman gewerkt aan de vertaling van de gedichten van de Amerikaanse dichter Billy Collins, en op zondag 22 december presenteren we het resultaat: *The Way I Read It / Zoals ik het lees.*
+
+
+Vanaf 15:00 uur worden er gedichten van Billy Collins voorgelezen, vertellen we iets over zijn werk en presenteren we het boek. Er is soep (door Sal) en een drankje!    
+
+Toegang is gratis.    
+Tijdstip: 15:00 - 18:00 uur
+
+::: {.article}
+## Harrie Jonkman
+  
+Harrie Jonkman vertaalde de poëzie van Billy Collins en stelde uit zijn dertien dichtbundels deze selectie samen onder de titel *The Way I read it/ Zoals ik het lees*. 
+
+Meer informatie over hem vindt u op https://www.harriejonkman.nl.
+:::
+
+::: {.article}
+## Statenhofpers
+
+Statenhofpers is de privé pers van Jaap Schipper en Christianne Duchateau. De Statenhofpers gaf *The Way I read it/ Zoals ik het lees* uit. Het boek is in beperkte oplage daar te bestellen.
+
+Meer informatie over de Statenhofpers vindt u op https://www.statenhofpers.nl 
+:::
+
+## Billy Collins
+
+Billy Collins (geboren op 22 maart 1941 in New York, New York, VS) is een Amerikaanse dichter van toegankelijke verzen. Zij gedichten worden gekenmerkt door eenvoudige taal, zachte humor en een alerte waardering voor het alledaagse. Zijn werk maakte hem tot een van de populairste dichters van de Verenigde Staten. Billy Collins schreef tot nu toe dertien dichtbundels. Zijn eerste bundel *De appel die Paris verbaasde* kwam in 1988 uit en zijn laatste bundel (*Musical Tables*) verscheen in 2022.
+
+## Dwars30A
+
+**Dwars30A** is een community-organisatie voor dwarsliggers, door dwarsliggers. Ze organiseren bijeen- en samenkomsten rond culturele thema's enkele keren per jaar. Dan wordt er ook soep gemaakt. **Dwars30A** organiseert dit keer deze boekpresentatie. 
